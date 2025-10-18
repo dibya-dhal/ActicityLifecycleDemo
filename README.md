@@ -5,3 +5,7 @@ using Toast messages.
 ## Tools
 -Kotlin
 -Android studio
+
+## How to Run
+Clone the repo and open it in Android
+studio.
